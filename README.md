@@ -3,7 +3,7 @@ Project to recognise the block colour of an object
 
 Abstract
 
-This program establishes the Hue, Saturation and Value range in which a specific block coloured object falls. Images are taken from the webcam of the laptop and converted from BGR to HSV colour space. Once converted this frame is then manipulated in order to filter out the object of choice. Manipulation is conducted through the use of trackbars filtering out specific ranges of Hue, Saturation and Value.
+This program establishes the Hue, Saturation and Value range in which a specific block coloured object falls. Images are taken from the webcam of the laptop and converted from BGR to HSV colour space. Once converted this frame is then manipulated in order to filter out the object of choice. Manipulation is conducted through the use of trackbars filtering out specific ranges of Hue, Saturation and Value. This project was created on Mac OS EL Capitan, using tools from OpenCV on XCode 8.2.1 written in C++.
 
 Procedure
 
