@@ -11,7 +11,7 @@ A note before commencing. This program has been developed so that 1 or 2 ranges 
 
 - Choose the block coloured object to be recognised. (I went with  different coloured balloons)
 
-- Using the HSV scale, locate approximately the values of Hue, Saturation and Value. The scale for Hue is 260 degrees so this will be multiplied by 0.7 so its in the range of 255 bytes. The scale for Saturation and Value are out of 100 so these values will need to multiplied by 2.55 to bring them to the scale of 255 bytes. [2]
+- Using the HSV scale, locate approximately the values of Hue, Saturation and Value. The scale for Hue is 360 degrees so this will be multiplied by 0.7 so its in the range of 255 bytes. The scale for Saturation and Value are out of 100 so these values will need to multiplied by 2.55 to bring them to the scale of 255 bytes. [2]
 
 - Run Program and adjust the trackbar settings of Hue, Saturation and Value to that determined form the scale. If one range is needed for each then use Hue Min/Max 1, Saturation Min/Max 1 and Value Min/Max 1. If two ranges are need then use both variables of Hue, Saturation and Value.
 
